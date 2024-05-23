@@ -30,3 +30,5 @@ While creating this project, I learned the following:
 2. Usage of control structures like switch, for loop, while loop,and if-else statements.
 3. Handling arrays and 2D arrays.
 4. Basic input/output operations in C++.
+5. Creating and using user-defined functions.
+6. Utilizing predefined functions provided by the C++ standard library.
