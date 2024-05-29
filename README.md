@@ -5,6 +5,14 @@ Bookshop Management System with Console-Based UI in C++
 Final Project in Computer Programming 1  
 ITC111 (1st Semester)
 
+## Overview
+
+Silkroad Bookshop is a console-based bookshop management system designed in C++. This project demonstrates a simple inventory and cart system, managed using temporary arrays. It features separate functionalities for admin and user operations, providing a clear structure for managing books and processing user purchases.
+
+> **Note:** This project uses temporary arrays as a substitute for a database, meaning that data is not persistent between program executions.
+
+## Usage
+
 ## Features
 
 ### Admin Side
@@ -18,8 +26,8 @@ ITC111 (1st Semester)
 - **Add to Cart**: Users can add books to their cart.
 - **Payment Process**: Users can proceed with the payment for the books in their cart.
 
-![Screenshot 2024-04-28 112621](https://github.com/Frxncz/Silkroad_Bookshop-Management-System/assets/148550609/f71d09c8-5905-46bc-81c6-416fc2130f1f)
 
+![Screenshot 2024-04-28 112621](https://github.com/Frxncz/Silkroad_Bookshop-Management-System/assets/148550609/f71d09c8-5905-46bc-81c6-416fc2130f1f)
 
 
 ### What I Learned
