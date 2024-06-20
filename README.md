@@ -11,8 +11,6 @@ Silkroad Bookshop is a console-based bookshop management system designed in C++.
 
 > **Note:** This project uses temporary arrays as a substitute for a database, meaning that data is not persistent between program executions.
 
-## Usage
-
 ## Features
 
 ### Admin Side
